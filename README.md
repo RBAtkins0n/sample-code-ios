@@ -1,10 +1,10 @@
 # sample-code-ios
-## PayGate Sample Code iOS BETA
+## PayGate Sample Code iOS
 
 The below example code and testing interface has been provided.
 
 ## Installation
-[![PayGate Sample Code for iOS](https://www.appinlet.com/wp-content/uploads/2020/04/PayGate-Sample-Code-for-iOS-scaled.jpg)](https://www.youtube.com/watch?v=oiZoxzJayQY "PayGate Sample Code for iOS")
+[![PayGate Sample Code for iOS](https://appinlet.com/wp-content/uploads/2021/01/PayGate-Sample-Code-for-iOS.jpg)](https://www.youtube.com/watch?v=XedrmwIb1RI "PayGate Sample Code for iOS")
 
 To generate the needed dependencies, run the following from your project directory:
 
